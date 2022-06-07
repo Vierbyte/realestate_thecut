@@ -8,7 +8,7 @@ const Layout = ({children}) => (
         <Head>
             <title>Real Estate</title>
         </Head>
-        <Box maxWidth="1280px" m="auto">
+        <Box maxWidth="1280px" m="auto" style={{backgroundImage: 'linear-gradient(#e65411, #8198e5)'}}>
             <header>
                 <Navbar />
             </header>
